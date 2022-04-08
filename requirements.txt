@@ -1,3 +1,4 @@
 streamlit==1.8.1
 streamlit-webrtc
 opencv-python-headless
+aiortc==1.0.0
