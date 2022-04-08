@@ -1,4 +1,9 @@
 streamlit==1.8.1
 streamlit-webrtc
+streamlit_webrtc
 opencv-python-headless
 aiortc==1.0.0
+numpy
+matplotlib
+pydub
+
